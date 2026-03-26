@@ -1,0 +1,200 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#111927",
+            "lang-select-color": "#222829",
+            "bg-light": "#111927",
+            "welcome-bonus-bg": "#111927",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#0d121c",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#193057",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#d3a422",
+            "yellow": "#193057",
+            "yellow-button": "#d3a422",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#193057",
+            "casino-cards": "#111927",
+            "bonus-border-head": "#ffffff",
+            "bonus-border": "#193057",
+            "providers-back": "#111927",
+            "faq-label": "#111927",
+            "bg-footer": "#111927",
+            "copyright": "#e7e7d5",
+            "starColor": "#193057",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5231"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5232",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Gates of Olympus 1000 Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5233",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Gates of Olympus 1000"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Gates of Olympus 1000",
+                    "title": "Gates of Olympus 1000: slot review, bonuses, free spins and gameplay rules",
+                    "description": "Gates of Olympus 1000 is a vivid Olympus-themed slot with cascading wins, free spins, multipliers up to 1000x, and win potential up to 15000x. Explore its features, bonuses, gameplay rules, and main advantages.",
+                    "canonical": "gates-of-olympus1000-slot.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5241",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "gates-of-olympus1000-slot.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5240"
+                },
+                "hero": {
+                    "title": "Gates of Olympus 1000 — play online slot with multipliers up to 1000x",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5242",
+                    "imageSizeModifier": 5,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5243",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "High multipliers up to massive 1000x.",
+                        "Cascading wins extend every successful spin.",
+                        "Free spins boost big win potential.",
+                        "Simple rules and dynamic gameplay flow.",
+                        "Vivid design with ancient mythology atmosphere.",
+                        "Huge maximum payout up to 15000x.",
+                        "Great for fans of volatile slots."
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Know more",
+                    "appTitle": "Gates of Olympus 1000 App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5239",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Gates of Olympus 1000 App",
+                    "mobileGooglePlayImageTitle": "Gates of Olympus 1000 App",
+                    "mobileIosImageTitle": "Gates of Olympus 1000 App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "Gates of Olympus 1000",
+                        "description1": "Gates of Olympus 1000 is a bright and dynamic slot inspired by ancient Greek mythology, with the mighty Zeus taking center stage.",
+                        "items": [],
+                        "description2": " The game uses a 6x5 layout and features cascading wins, allowing a single successful spin to trigger multiple consecutive payouts. Its standout feature is the multiplier range up to 1000x, which significantly increases the excitement and win potential of the game. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5244",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "Symbols pay when enough matching icons land anywhere on the screen, making the gameplay feel more open and action-packed. Free spins are especially important here because multipliers can build up across the entire bonus round. Gates of Olympus 1000 is an excellent choice for players who enjoy high-volatility slots with the possibility of major rewards. It is a bold, fast-moving slot designed for those who chase big moments."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus 1000 — Key Features and Characteristics\n<\/h3>\n\n<p>\nGates of Olympus 1000 is a high-volatility video slot built around multipliers, cascades, and free spins. It combines a dramatic mythological theme with simple gameplay rules that are easy to understand even for newer players. At the same time, the slot is clearly designed for those who enjoy strong payout potential and explosive bonus rounds. Thanks to its payout system and powerful feature set, the game stays intense and engaging throughout the session.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nFeatures:\n<\/h4>\n\n <ul>\n            <li>• \nProvider: Pragmatic Play\n<\/li>\n            <li>• \nSlot name: Gates of Olympus 1000\n<\/li>\n            <li>• \nTheme: ancient Greek mythology, gods, Olympus\n<\/li>\n            <li>• \nGrid size: 6x5\n<\/li>\n\t    <li>• \nPayout mechanic: wins from 8 or more matching symbols anywhere on the screen\n<\/li>\n\t    <li>• \nSlot type: video slot\n<\/li>\n\t    <li>• \nVolatility: high\n<\/li>\n\t    <li>• \nRTP: around 96.50%\n<\/li>\n\t    <li>• \nMaximum multiplier: up to 1000x\n<\/li>\n\n   <li>• \nMaximum win: up to 15000x the stake\n<\/li>\n            <li>• \nSpecial mechanic: cascading wins\n<\/li>\n            <li>• \nBonus feature: free spins\n<\/li>\n            <li>• \nRetrigger option: yes\n<\/li>\n\t    <li>• \nBonus buy: available in some versions and jurisdictions\n<\/li>\n\t    <li>• \nDevice support: desktop, tablet, smartphone\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus 1000 — Demo Mode\n<\/h3>\n\n<p>\nThe demo mode in Gates of Olympus 1000 lets players explore the slot without risking their balance and gives them time to understand its core mechanics. In this version, it is easy to see how cascading wins work, how free spins are triggered, and how multipliers behave during the bonus round. It is a practical way to learn the pace of the slot, its volatility, and its overall payout style before switching to real stakes. Demo play is especially useful for newcomers and for players who want to test their own approach first. This mode helps build confidence and gives a clear feel for how the game performs.\n<\/p>\n<br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus 1000 — Bonuses and Special Features\n<\/h3>\n\n<p>\nGates of Olympus 1000 is built around bonus mechanics that make the game far more exciting than a standard classic slot. Its real value comes not only from base payouts, but from the way different features can combine to boost the result of a single successful round. Cascades, multipliers, and free spins play the central role here because they define the slot’s biggest winning potential. Even a regular spin can turn into a long chain of payouts when new symbols keep landing after each winning drop. The bonus round is the most important part of the game, as this is where the multiplier system becomes especially powerful. An additional advantage for experienced players may be the bonus buy option, when it is available in the local version of the game. The slot also appeals strongly to players who enjoy risk, volatility, and sudden bursts of action that can completely change the session. That is why Gates of Olympus 1000 stands out as a title focused on explosive feature-driven gameplay. It is important to remember that bonus triggers may come at different frequencies, but those rare high-impact moments define the identity of the game.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMain bonuses and special features:\n<\/h4>\n\n <ul>\n            <li>• \nCascading wins <br>\nAfter every winning combination, the symbols disappear and new ones drop into place. This creates the chance for several wins within a single spin.<br>\nExample: one spin can lead to 2, 3, or even more consecutive cascades.\n<\/li><br>\n            <li>• \n8+ symbol payout system<br>\nThere is no need for traditional paylines. You simply need 8, 10, 12, or more matching symbols anywhere on the screen.<br>\nExample: 8 matching symbols already trigger a payout, while 12 or more usually produce a much stronger result.\n<\/li><br>\n            <li>• \nRandom multipliers in the base game<br>\nMultiplier symbols can appear and enhance the total outcome of a cascade sequence.<br>\nExample: if 5x and 10x multipliers land in the same round, the combined value may reach 15x.\n<\/li><br>\n            <li>• \nMultipliers up to 1000x<br>\nThis is the defining feature of the 1000 version. It significantly increases the potential for rare but massive wins.<br>\nExample: possible values may include 2x, 5x, 10x, 25x, 50x, 100x, 250x, 500x, and up to 1000x.\n<\/li><br>\n\t    <li>• \nFree spins feature<br>\nThe bonus mode is triggered when 4 or more scatter symbols appear. This awards a starting package of free spins and opens the way to the slot’s biggest moments.<br>\nExample: 4 scatters can award 15 free spins.\n<\/li><br>\n\t    <li>• \nMultiplier accumulation during free spins<br>\nIn the bonus round, all multipliers collected during a winning cascade are added together and applied to the total win. This makes successful free spins especially powerful.<br>\nExample: a single bonus spin may combine 20x + 50x + 100x = 170x.\n<\/li><br>\n\t    <li>• \nFree spins retrigger<br>\nDuring the free spins feature, extra spins can be added if the required number of scatters appears again.<br>\nExample: 3 scatters in the bonus round may award 5 additional free spins.\n<\/li><br>\n\t    <li>• \nMaximum win potential up to 15000x<br>\nThe slot is clearly designed for big payouts, especially inside a bonus sequence with multiple cascades and strong multipliers.<br>\nExample: with a stake of 1, the theoretical top reward can reach 15000 in account currency.\n<\/li><br>\n\t    <li>• \nBonus buy option<br>\nIn some versions, players can jump directly into the free spins round without waiting for a natural trigger.<br>\nExample: the feature cost may be around 100x the current stake.\n<\/li><br>\n\t    <li>• \nHigh volatility as a gameplay advantage<br>\nWhile not a bonus in the classic sense, high volatility is a major attraction for players chasing rare but significant payouts.<br>\nExample: a long quiet stretch can be followed by one powerful bonus round with a huge multiplier.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus 1000 — How to Play<\/h3>\n\n<p>\nPlaying Gates of Olympus 1000 is quite simple once you understand its core logic and main bonus features. The key focus is not on paylines, but on how many matching symbols appear across the entire grid, along with multiplier and scatter symbols. The better you understand the bonus structure, the more confidently you can approach the game.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nStep by step:\n<\/h4>\n\n <ul>\n            <li> 1.\nChoose your stake size<br>\nBefore you start, set a comfortable spin amount. It is best to choose a stake that allows for enough spins without putting too much pressure on your balance.\n<\/li><br>\n            <li> 2.\nStart the spin<br>\nPress the spin button and wait for the result. In this type of slot, it is important to watch not only the first outcome, but also whether a cascade sequence begins.\n<\/li><br>\n            <li> 3.\nWatch for winning symbols<br>\nIn Gates of Olympus 1000, payouts are awarded for 8 or more matching symbols appearing anywhere on the grid. The more matching symbols you land, the stronger the payout.\n<\/li><br>\n            <li> 4.\nPay attention to cascades<br>\nAfter a winning combination, the symbols disappear and new ones fall from above. This can extend the round and improve the final result without an extra stake.\n<\/li><br>\n            <li> 5.\nTrack the multipliers<br>\nMultipliers are one of the most important parts of the game. They can dramatically increase the final win, especially during strong cascade chains or free spins.\n<\/li><br>\n            <li> 6.\nLook for scatter symbols<br>\nYou need the required number of scatters to trigger the bonus round. Free spins are often the main source of the slot’s biggest wins.\n<\/li><br>\n            <li> 7.\nUse demo mode for practice<br>\nBefore switching to real-money play, it helps to test the slot in its free version. This gives a better feel for the pace, event frequency, and bonus behavior.\n<\/li><br>\n            <li> 8.\nManage your balance carefully<br>\nSince the slot is high volatility, it is important to decide on a playing limit in advance. This makes the session more comfortable and sustainable.\n<\/li>\n         \n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGates of Olympus 1000 — Useful Tips for Playing\n<\/h3>\n\n<p>\nGates of Olympus 1000 is best approached as a high-volatility slot built around rare but powerful bonus sequences. Instead of expecting frequent steady payouts, it is better to understand that the main potential usually appears in long cascades and strong free spin rounds. A calm and disciplined approach makes the game more enjoyable and helps you read its rhythm more clearly.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTips:\n<\/h4>\n\n <ul>\n            <li>• \nStart with a moderate stake<br>\nHigh volatility means the slot may go through longer stretches without major payouts. A moderate bet gives you more room to stay in the game and wait for a stronger bonus moment.\n<\/li><br>\n            <li>• \nTest the demo mode first<br>\nThe free version helps you see how often cascades trigger, how active the multipliers feel, and what the overall pace of the slot is like.\n<\/li><br>\n            <li>• \nDo not judge the slot by a few spins<br>\nGates of Olympus 1000 shows its true behavior over time. A very short session rarely reflects the real pattern of a volatile slot.\n<\/li><br>\n            <li>• \nFocus on the bonus round<br>\nFree spins are usually where the biggest results happen. If you are interested in strong win potential, pay close attention to how the bonus feature works.\n<\/li><br>\n\t    <li>• \nRespect the power of combined multipliers<br>\nEven a medium-sized base win can become very significant once strong multipliers are added. In this game, outcomes are often decided by combinations of features.\n<\/li><br>\n\t    <li>• \nSet limits in advance<br>\nA predefined limit on stake size or session duration helps maintain control and keeps the experience more comfortable.\n<\/li><br>\n\t    <li>• \nAvoid sharp stake increases<br>\nAfter a good or bad run, it is usually better to stay consistent. Sudden bet jumps can make the session feel less balanced.\n<\/li><br>\n\t    <li>• \nWatch for bonus buy availability<br>\nIf your version includes Bonus Buy, consider it carefully. It gives direct access to free spins, but it also creates a heavier impact on your balance.\n<\/li><br>\n\t    <li>• \nPlay on a suitable device<br>\nA stable screen and удобный interface make it easier to follow cascades, multipliers, and bonus development.\n<\/li><br>\n\t    <li>• \nKeep realistic expectations<br>\nThe slot has strong potential, but every round remains random. A realistic mindset makes the experience smoother and more enjoyable.\n<\/li>\n        <\/ul><br>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How is Gates of Olympus 1000 different from the regular Gates of Olympus?",
+                            "answer": "The main difference is the increased maximum multiplier. In the 1000 version, multiplier potential is higher, making the slot feel more aggressive and even more focused on big bonus payouts."
+                        },
+                        {
+                            "title": "Is Gates of Olympus 1000 suitable for beginners?",
+                            "answer": "Yes, the core mechanics are quite easy to understand because the game does not rely on complicated paylines or layered systems. However, beginners should remember that high volatility makes results less predictable."
+                        },
+                        {
+                            "title": "Does stake size matter for the overall experience?",
+                            "answer": "Yes, because the stake affects not only the possible payout level, but also how comfortably a player handles volatile stretches. A moderate spin size often helps extend the session."
+                        },
+                        {
+                            "title": "How important are multipliers in this game?",
+                            "answer": "They are central to the entire experience. The slot remains interesting without them, but multipliers create the most exciting and rewarding moments."
+                        },
+                        {
+                            "title": "Who is this slot especially suitable for?",
+                            "answer": "It is best for players who enjoy visually strong slots with high risk, bonus rounds, and the chance of powerful multipliers. It also appeals to fans of mythological themes and energetic gameplay."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
